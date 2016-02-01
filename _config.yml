@@ -60,6 +60,51 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+fancybox: true ## If you want to use fancybox please set the value to true
+google_search: true ## Use Google search, true/false
+baidu_search: true ## Use Baidu search, true/false
+# swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
+# tinysou: ## Your tinysou_key, e.g. 4ac092ad8d749fdc6293
+# google_analytics: ## Your Google Analytics tracking id, e.g. UA-42425684-2
+# baidu_analytics: ## Your Baidu Analytics tracking id, e.g. 8006843039519956000
+
+menu:
+  page: home
+  directory: .
+  icon: icon-home
+  page: archive
+  directory: archives/
+  icon: icon-archive
+  page: about
+  directory: about/
+  icon: icon-about
+  page: rss
+  directory: atom.xml
+  icon: icon-rss
+
+
+
+links:
+  title: site-name1
+  url: http://www.example1.com/
+  title: site-name2
+  url: http://www.example2.com/
+  title: site-name3
+  url: http://www.example3.com/
+
+# Static files
+js: js
+css: css
+
+highlight:
+  enable: true
+  auto_detect: true
+  line_number: true
+  tab_replace:
+
+# Theme version
+version: 0.0.0
+
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
