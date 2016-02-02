@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://laienliang.github.io/2016/02/01/hello-world/</loc>
+    <lastmod>2016-02-02T06:40:51.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://laienliang.github.io/404.html</loc>
+    <lastmod>2016-02-02T06:17:34.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://laienliang.github.io/guestbook/index.html</loc>
+    <lastmod>2016-02-02T05:45:29.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://laienliang.github.io/tags/index.html</loc>
+    <lastmod>2016-02-02T05:26:30.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://laienliang.github.io/about/index.html</loc>
+    <lastmod>2016-02-02T05:00:57.000Z</lastmod>
+  </url>
+  
+</urlset>
