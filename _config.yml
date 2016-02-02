@@ -76,7 +76,11 @@ social:
   github: https://github.com/laienliang/laienliang.github.com
   iteye: http://lianglaiyang.iteye.com/
 
-
+# hexo sitemap网站地图
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
 
 
 
