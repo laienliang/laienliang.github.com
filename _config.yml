@@ -66,6 +66,24 @@ pagination_dir: page
 theme: maupassant
 fancybox: true
 baidu_search: true
+menu:
+  - page: 首页
+    directory: .
+    icon: icon-home
+  - page: 归档
+    directory: archives/
+    icon: icon-archive
+  - page: rss
+    directory: atom.xml
+    icon: icon-rss
+
+widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
+  - search
+  - category
+  - tag
+  - recent_posts
+  - recent_comments
+  - links
 links:
   - title: github
     url: https://github.com/laienliang/laienliang.github.com
