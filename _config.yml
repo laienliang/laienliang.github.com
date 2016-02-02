@@ -68,7 +68,7 @@ fancybox: true
 baidu_search: true
 avatar: /uploads/avatar.jpg
 duoshuo_shortname: laien
-sidebar: post
+#sidebar: always
 
 
 # Social links
