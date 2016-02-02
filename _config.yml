@@ -7,7 +7,7 @@ title: coding人生
 subtitle: keep coding
 description:
 author: laien.liang
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,14 +63,20 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: maupassant
+theme: next
 fancybox: true
 baidu_search: true
-links:
-  - title: github
-    url: https://github.com/laienliang/laienliang.github.com
-  - title: iteye
-    url: http://lianglaiyang.iteye.com/
+avatar: /uploads/avatar.jpg
+duoshuo_shortname: laien
+sidebar: post
+
+
+# Social links
+social:
+  github: https://github.com/laienliang/laienliang.github.com
+  iteye: http://lianglaiyang.iteye.com/
+
+
 
 
 
