@@ -64,6 +64,16 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: maupassant
+fancybox: true
+baidu_search: true
+links:
+  - title: github
+    url: https://github.com/laienliang/laienliang.github.com
+  - title: iteye
+    url: http://lianglaiyang.iteye.com/
+
+
+
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
